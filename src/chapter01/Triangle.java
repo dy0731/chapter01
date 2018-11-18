@@ -6,7 +6,7 @@ public class Triangle {
 		
 		for(int i = 0; i < 6; i++) {
 			
-			for(int j = 0 ; j<5 ; j++) {
+			for(int j = 0 ; j<i+1 ; j++) {
 
 				System.out.print("x");
 			}
